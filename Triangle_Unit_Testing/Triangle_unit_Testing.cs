@@ -50,7 +50,7 @@ namespace Triangle_Unit_Testing
         [Test]
         public void Test_Triangle_validation() //Testing if triangle can form
         {
-            int l = 1, w = 3, r = 25;
+            int l = 3, w = 4, r = 5;
             String a = "valid";
             String d = TriangleSolver.Analyze(l, w, r);
             StringAssert.Contains(a, d);

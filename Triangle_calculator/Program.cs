@@ -14,7 +14,7 @@ namespace Triangle_calculator
             while (true)
             {
                 int choice;
-                int[] sides = new int[2];
+                int[] sides = new int[3];
                 String demo;
                 try { 
                 do { 
