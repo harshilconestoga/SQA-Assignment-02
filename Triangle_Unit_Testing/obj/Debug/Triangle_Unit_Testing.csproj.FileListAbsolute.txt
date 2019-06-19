@@ -1,0 +1,12 @@
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\bin\Debug\Triangle_Unit_Testing.dll
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\bin\Debug\Triangle_Unit_Testing.pdb
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\bin\Debug\Triangle_calculator.exe
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\bin\Debug\Triangle_calculator.pdb
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\bin\Debug\Triangle_calculator.exe.config
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\obj\Debug\Triangle_Unit_Testing.csprojAssemblyReference.cache
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\obj\Debug\Triangle_Unit_Testing.csproj.CoreCompileInputs.cache
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\obj\Debug\Triangle_Unit_Testing.csproj.CopyComplete
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\obj\Debug\Triangle_Unit_Testing.dll
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\obj\Debug\Triangle_Unit_Testing.pdb
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\bin\Debug\nunit.framework.dll
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_Unit_Testing\bin\Debug\nunit.framework.xml
