@@ -31,6 +31,8 @@ namespace Triangle_calculator
                                     {
                                         Console.WriteLine($"Enter length of side-{i + 1}: ");
                                         sides[i] = int.Parse(Console.ReadLine());
+                                        if (sides[i] <= 0)
+                                            Console.WriteLine("Please enter a number greater than 0");
                                     } while (sides[i] <= 0); //Loop until side is not greater than 0
                                 }
                                 demo = TriangleSolver.Analyze(sides[0], sides[1], sides[2]); //Calling Analyze method directly from TriangleSolver static class

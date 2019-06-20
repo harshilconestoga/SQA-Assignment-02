@@ -3,8 +3,8 @@ D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\bin\Debug\Tri
 D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\bin\Debug\Triangle_calculator.pdb
 D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\bin\Debug\nunit.framework.dll
 D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\bin\Debug\nunit.framework.xml
+D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\obj\Debug\Triangle_calculator.csprojAssemblyReference.cache
 D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\obj\Debug\Triangle_calculator.csproj.CoreCompileInputs.cache
 D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\obj\Debug\Triangle_calculator.csproj.CopyComplete
 D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\obj\Debug\Triangle_calculator.exe
 D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\obj\Debug\Triangle_calculator.pdb
-D:\Sharifi qa\Assignment-2\Triangle_calculator\Triangle_calculator\obj\Debug\Triangle_calculator.csprojAssemblyReference.cache
